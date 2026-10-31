@@ -5,9 +5,11 @@
 </div>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+the+MERN+Stack;Learning%2C+Building+%26+Creating;Somewhere+between+code+and+creativity." />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1200&color=C8A2FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Passionate+about+building+%26+creating;Learning%2C+Building+%26+Creating;Somewhere+between+code+and+creativity." />
 </p>
+
 
 
 
