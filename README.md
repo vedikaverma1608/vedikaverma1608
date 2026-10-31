@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 <div align="center">
+  <img src="./stars.svg" width="100%" alt="Twinkling purple stars" />
+</div>
+
+<div align="center">
   <img src="./banner.png" width="100%" alt="Vedika Verma — Somewhere between code and creativity" />
 </div>
 
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Vedika Verma — Somewhere between code and creativity" />
+</div>
 
 
 <p align="center">
@@ -13,6 +20,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vedikaverma1608/vedikaverma1608/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 </p>
+
 
 
 
