@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1200&color=C8A2FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Passionate+about+building+%26+creating;Learning%2C+Building+%26+Creating;Somewhere+between+code+and+creativity." />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedikaverma1608/vedikaverma1608/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
+</p>
+
 
 
 
